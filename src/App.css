@@ -8,6 +8,7 @@
 body {
   background: var(--color-bg);
 }
+
 a {
   color: unset;
   text-decoration: none;
@@ -30,6 +31,7 @@ a {
     background:radial-gradient(circle at 0% 50%, rgba(227, 227, 227, 1) 0%, rgba(0, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);
 
 }
+
 .gradient__text {
   background: var(--gradient-text);
   background-clip: text;
@@ -40,10 +42,10 @@ a {
 .section__padding {
   padding: 4rem 6rem;
 }
+
 .section__margin {
   margin: 4rem 6rem;
 }
-
 
 /**** ANIMATIONS ****/
 .scale-up-center {
@@ -73,10 +75,9 @@ a {
   }
 }
 
-
 /**** MEDIUM SIZE DEVICES ****/
 @media (max-width: 700px) {
-  .section__padding{
+  .section__padding {
     padding: 4rem;
   }
   .section__margin {
