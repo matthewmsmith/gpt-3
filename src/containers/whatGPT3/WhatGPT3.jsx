@@ -15,8 +15,7 @@ const featureData = [
  {
   title:'Education',
   text:'At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments '
- }
-
+ },
 ]
 const WhatGPT3 = () => {
   return (
