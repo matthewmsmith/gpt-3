@@ -11,10 +11,7 @@ const Header = () => {
           Let's Build Something amazing with GPT3 OpenAI
         </h1>
         <p>
-          Yet bed any for traveling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+        Artificial intelligence (AI) makes it possible for machines to learn from experience, adjust to new inputs and perform human-like tasks. Most AI examples that you hear about today – from chess-playing computers to self-driving cars – rely heavily on deep learning and natural language processing. Using these technologies, computers can be trained to accomplish specific tasks by processing large amounts of data and recognizing patterns in the data. But thats just the beginning..
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address " />

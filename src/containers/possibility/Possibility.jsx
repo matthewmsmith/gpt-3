@@ -15,7 +15,9 @@ const Possibility = () => {
         <h1 className="gradient__text">
           The possibilities are beyond your imagination
         </h1>
-        <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+        <p>Chatbots use AI to understand customer problems faster and provide more efficient answers
+Intelligent assistants use AI to parse critical information from large free-text datasets to improve scheduling
+Recommendation engines can provide automated recommendations for TV shows based on users’ viewing habits</p>
         <h4>Request Early Access to Get Started</h4>
       </div>
     </div>

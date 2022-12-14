@@ -7,22 +7,22 @@ const articleData = [
   {
    imgUrl: blog02, 
     date: 'Nov 23, 2010',
-    title: 'GPT-3 and Open AI is the future. Let us explore how it is?'
+    title: 'GPT-3 and Open AI is the future'
   },
   {
     imgUrl: blog03, 
     date: 'Nov 3, 2013',
-    title: 'GPT-3 and Open AI is the future. Let us explore how it is?'
+    title: 'GPT-3 hosting career fair. Join us Nov 15th'
   },
   {
     imgUrl: blog04, 
     date: 'Jan 23, 2019',
-    title: 'GPT-3 and Open AI is the future. Let us explore how it is?'
+    title: 'GPT-3 is researching about brain stem developments'
   },
   {
     imgUrl: blog05, 
     date: 'July 23, 2022',
-    title: 'GPT-3 and Open AI is the future. Let us explore how it is'
+    title: 'GPT-3 has released new Chatbot software'
   
   },
 ]
@@ -37,7 +37,7 @@ const Blog = () => {
       </div>
       <div className="gpt3__blog-container">
         <div className="gpt3__blog-container_groupA">
-            <Article imgUrl={blog01} date='Dec 26, 2022' title='GPT-3 and Open AI is the future. Let us explore how it is?'/>
+            <Article imgUrl={blog01} date='Dec 26, 2022' title='GPT-3 has opened up a new research facility in Berlin'/>
         </div>
         <div className="gpt3__blog-container_groupB">
           {articleData.map((item, index) => (

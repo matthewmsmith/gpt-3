@@ -80,7 +80,8 @@
   flex-direction: column;
   
   text-align: end;
-  background: var(--color-footer);
+  background: #fff;
+  
   padding: 2rem;
   position: absolute;
   right: 0;
@@ -93,6 +94,7 @@
 
 .gpt3__navbar-menu_container p {
   margin: 1rem 0;
+  color: var(--color-text);
 }
 
 .gpt3__navbar-menu_container-links-sign {

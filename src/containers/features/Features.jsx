@@ -4,28 +4,21 @@ import './features.css'
 
 const featuresData = [ 
   {
-    title: 'Improving end distrusts instantly ',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Educational Programs',
+    text: 'Learn about our company through internships and volunteer programs. '
   },
   {
-    title: 'Become the tended active ',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
+    title: 'Become aResearcher or Engineer at GPT-3 ',
+    text: 'We host career fairs on the 15th of every month. '
   },
-  {
-    title: 'Message or am nothing',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
-  },
-  {
-    title: 'Really boy law county ',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.'
-  },
+ 
 ]
 
 const Features = () => {
   return (
     <div className="gpt3__features section__padding" id="features">
       <div className="gpt3__features-heading">
-        <h1 className='gradient__text'>The Future is Now and You Just Need To Realize It. Step Into the Future Today.</h1>
+        <h1 className='gradient__text'>Step Into the Future Today.</h1>
         <p>Request Early Access to Get Started</p>
       </div>
       <div className="gpt3__features-container">
